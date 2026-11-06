@@ -1,0 +1,13 @@
+.env
+/frontend/node_modules
+# Java build outputs
+**/target/
+*.class
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Maven wrapper cache
+.mvn/wrapper/maven-wrapper.jar
